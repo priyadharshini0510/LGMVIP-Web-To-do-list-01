@@ -1,2 +1,2 @@
-# LGMVIP-Web-To-do-list-01
+# LGMVIP Tasks
 This is project repository
